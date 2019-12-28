@@ -1,0 +1,2 @@
+print("Rise and Shine!!")
+

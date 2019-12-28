@@ -1,0 +1,21 @@
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.deps.json
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.runtimeconfig.json
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.runtimeconfig.dev.json
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.dll
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.pdb
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.csprojAssemblyReference.cache
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.csproj.CoreCompileInputs.cache
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.AssemblyInfoInputs.cache
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.AssemblyInfo.cs
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.dll
+C:\My Stuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.pdb
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.deps.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.runtimeconfig.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.dll
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\bin\Debug\netcoreapp2.1\Ch1.pdb
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.dll
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch1\obj\Debug\netcoreapp2.1\Ch1.pdb
