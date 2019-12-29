@@ -1,0 +1,11 @@
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.exe
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.deps.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.runtimeconfig.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.dll
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\bin\Debug\netcoreapp3.0\Ch3.pdb
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\obj\Debug\netcoreapp3.0\Ch3.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\obj\Debug\netcoreapp3.0\Ch3.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\obj\Debug\netcoreapp3.0\Ch3.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\obj\Debug\netcoreapp3.0\Ch3.dll
+C:\MyStuff\Practice Projects\Python4DotnetDev\CSharp_VSC\Ch3\obj\Debug\netcoreapp3.0\Ch3.pdb
